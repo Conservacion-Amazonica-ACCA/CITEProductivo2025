@@ -163,53 +163,14 @@ nav_order: 6
 
 ### Códigos
 
-#### JavaScript en el cliente
-
 <ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.1%20Introduccion%20Javascript%20cliente" target="_blank">Práctica 1</a></li>
-</ul>
-
-#### JavaScript en el servidor
-
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.2%20Introduccion%20Javascript%20servidor" target="_blank">Práctica 2</a></li>
-</ul>
-
-#### Objetos de GEE
-
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.3%20Introduccion%20Javascript%20objetos" target="_blank">Práctica 3</a></li>
-</ul>
-
-#### Funciones en GEE
-
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.4%20Introduccion%20Javascript%20funciones" target="_blank">Práctica 4</a></li>
-</ul>
-
-#### Filtros en GEE
-
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.5%20Filtrado%20de%20datos" target="_blank">Práctica 5</a></li>
-</ul>
-
-#### Enmascaramiento de nubes
-
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.6%20Enmascaramiento%20de%20nubes" target="_blank">Práctica 6</a></li>
-</ul>
-
-#### Creación de mosaicos y composites
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.7%20Creaci%C3%B3n%20de%20mosaicos%20y%20composites" target="_blank">Práctica 7</a></li>
-</ul>
-
-#### Manipulación de colección de entidades
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.8%20Manipulacion%20de%20colecciones%20de%20entidades" target="_blank">Práctica 8</a></li>
-</ul>
-
-#### Subida y descarga de datos
-<ul>
-    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.9%20Subida%20y%20descarga%20de%20datos" target="_blank">Práctica 9</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.1%20Introduccion%20Javascript%20cliente" target="_blank">Práctica 1: JavaScript en el cliente</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.2%20Introduccion%20Javascript%20servidor" target="_blank">Práctica 2: JavaScript en el servidor</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.3%20Introduccion%20Javascript%20objetos" target="_blank">Práctica 3: Objetos de GEE</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.4%20Introduccion%20Javascript%20funciones" target="_blank">Práctica 4: Funciones en GEE</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.5%20Filtrado%20de%20datos" target="_blank">Práctica 5: Filtros en GEE</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.6%20Enmascaramiento%20de%20nubes" target="_blank">Práctica 6: Enmascaramiento de nubes</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.7%20Creaci%C3%B3n%20de%20mosaicos%20y%20composites" target="_blank">Práctica 7: Creación de mosaicos y composites</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.8%20Manipulacion%20de%20colecciones%20de%20entidades" target="_blank">Práctica 8: Manipulación de colección de entidades</a></li>
+    <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.9%20Subida%20y%20descarga%20de%20datos" target="_blank">Práctica 9: Subida y descarga de datos</a></li>
 </ul>
