@@ -18,24 +18,24 @@ nav_order: 4
 
 ### Presentación Linn Aerospace
 
-<iframe src="https://drive.google.com/file/d/10XKvZcbagBOpUDejvOzQxAvUb8-OrvuB/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/10XKvZcbagBOpUDejvOzQxAvUb8-OrvuB/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Análisis de datos
 
-<iframe src="https://drive.google.com/file/d/12_HYKUclKKkZiWHOjSu-Y7hd_uszglEm/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/12_HYKUclKKkZiWHOjSu-Y7hd_uszglEm/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Configuraciones de vuelo Aerobotics
 
-<iframe src="https://drive.google.com/file/d/1DtwEN7S4qSJrVQma-Bu3TSWHJozy4QBD/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1DtwEN7S4qSJrVQma-Bu3TSWHJozy4QBD/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Manual M300
 
-<iframe src="https://drive.google.com/file/d/1Yt4iSO0yisroTiTQWkheDzIONcP9j8gK/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1Yt4iSO0yisroTiTQWkheDzIONcP9j8gK/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Guía de integración MicaSense
 
-<iframe src="https://drive.google.com/file/d/1RCAqGfawjzQRH8-jlHl-7ffOZfttVkZr/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1RCAqGfawjzQRH8-jlHl-7ffOZfttVkZr/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Guía de usuario MicaSense
 
-<iframe src="https://drive.google.com/file/d/1noDSdlkTqPcRkYb7Tsjf7G355slbhVTL/view" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1noDSdlkTqPcRkYb7Tsjf7G355slbhVTL/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
