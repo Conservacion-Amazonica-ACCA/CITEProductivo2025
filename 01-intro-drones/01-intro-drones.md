@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "1. Introducción al uso de drones"
-permalink: /01-Drones-intro
+permalink: /01-intro-drones
 has_children: false
 nav_order: 3
 ---
