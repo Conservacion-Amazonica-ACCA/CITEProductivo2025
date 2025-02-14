@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "4. Introducción a Google Earth Engine y a la programación"
-permalink: /03-intro-teledeteccion
+permalink: /04-intro-gee
 has_children: false
 nav_order: 6
 ---
