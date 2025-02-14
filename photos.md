@@ -1,27 +1,24 @@
 ---
 layout: page
-title: Photos
-nav_order: 9
+title: Fotos
+nav_order: 16
 ---
 
-# Photos
+# Fotos
 
-Photos from the event are available in the following link:
+Las fotos del evento están disponibles en el siguiente enlace:
 
-[View or Upload Photos](https://drive.google.com/drive/folders/1JECFfC4rkeSr0jXLqrxblkPIKeet8AT2?usp=sharing){: .btn .btn-purple }
+[Ver o subir fotos](https://drive.google.com/drive/folders/1KSA0fC32JtcYDhrsvOL5TPExXC-HDyXM?usp=sharing){: .btn .btn-purple }
 
-## Recent Workshop Highlights
+## Fotos destacadas del Taller
 
-Day 1 group photos:
+Fotos grupales del Taller de Drones
 
 <img align="center" src="https://drive.google.com/uc?export=view&id=1mymDY-gLvimegCLbBjv3h9lNqjvcOQ9H" hspace="15" vspace="10" width="500">
 
 <img align="center" src="https://drive.google.com/uc?export=view&id=1JrVvMrSgdw3y60zR7AKbLUIdP5jNmu4r" hspace="15" vspace="10" width="500">
 
-Final day group photo:
+Fotos grupales del Taller de SIG y Teledetección
 
 <img align="center" src="https://drive.google.com/uc?export=view&id=110Vt1gFZO5bMDRfZ1mb_y5ZD2qK7AoV7" hspace="15" vspace="10" width="500">
 
-Workflow made by the participants:
-
-<img align="center" src="https://drive.google.com/uc?export=view&id=1HAr1PDAt-W1nNEtLJnpwHV8F8OwzIzjJ" hspace="15" vspace="10" width="500">
