@@ -10,9 +10,6 @@ nav_order: 3
 
 # Introducción al uso de Drones
 
-## Tabla de contenidos
-{: .no_toc .text-delta }
-
 ## Agenda
 **Fecha**: 27/01/2025
 **Instructor(es):** Carlos Castañeda & Bertin Huamán
