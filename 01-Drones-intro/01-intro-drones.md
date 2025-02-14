@@ -8,245 +8,146 @@ nav_order: 3
 
 
 
-# Introduction to ML, Deep Learning and Google Colab
+# Introducción al uso de Drones
 
-## Table of contents
+## Tabla de contenidos
 {: .no_toc .text-delta }
 
-## Session Agenda
-**Date**: 08/08/2023  
-**Instructor(s):** Lilly Thomas & Ryan Avery
+## Agenda
+**Fecha**: 27/01/2025
+**Instructor(es):** Carlos Castañeda & Bertin Huamán
 
 <table>
   <tbody>
     <tr>
-      <th align="center">Time</th>
-      <th align="center">Topics</th>
-      <th align="center">Presenter</th>
+      <th align="center">Número</th>
+      <th align="center">Tema</th>
+      <th align="center">Teórico/Práctico</th>
     </tr>
     <tr>
-      <td>07:30 - 08:00</td>
+      <td>01</td>
       <td>
         <ul>
-            <li>Checklist of trainees</li>
+            <li>Principios básicos</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Marvin Quispe (ACCA)</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>08:00 - 08:30</td>
-      <td>
-        <ul>
-            <li>Opening remarks</li>
-        </ul>
-      </td>
-      <td>
-        <strong>Moderator:</strong>
-        <ul>
-            <li>Milagros Becerra (ACCA)</li>
-        </ul>
-        <strong>Speaker:</strong>
-        <ul>
-            <li>Vanesa Martin (NASA)</li>
-            <li>Carlos Gasco (CIAT/SAMZ)</li>
-            <li>Sidney Novoa (ACCA)</li>
-            <li>Patrick Venail (UTEC)</li>
+            <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>08:30 - 09:00</td>
+      <td>02</td>
       <td>
         <ul>
-            <li>Opening photo</li>
+            <li>Meteorología</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Claudia Hurtado (ACCA)</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>09:00 - 09:30</td>
-      <td>
-        <ul>
-            <li>Overview of the TF Training</li>
-            <li>Goals: Capacity Building</li>
-        </ul>
-      </td>
-      <td>
-        <strong>Moderator:</strong>
-        <ul>
-          <li>Vanesa Martin (NASA)</li>
-          <li>Milagros Becerra (ACCA)</li>
+            <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>09:30 - 10:30</td>
+      <td>03</td>
       <td>
         <ul>
-          <li>What is your Application Area? Overview</li>
-          <li>Hub presentations SERVIR Amazonia services and ML</li>
+            <li>Navegación</li>
         </ul>
       </td>
       <td>
-        <strong>Lead:</strong>
         <ul>
-          <li>Milagros Becerra (ACCA)</li>
-        </ul>
-        <strong>Moderator:</strong>
-        <ul>
-            <li>Vanesa Martin (NASA)</li>
-            <li>Marvin Quispe (ACCA)</li>
-            <li>Osmar Yupanqui (ACCA)</li>
+            <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10:30 - 11:00</td>
-      <td>
-        <em>Coffee Break</em>
-      </td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>11:00 - 12:00</td>
+      <td>04</td>
       <td>
         <ul>
-          <li>Introduction to Machine Learning, Deep Learning and Artificial Intelligence</li>
+            <li>Factores humanos</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Osmar Yupanqui (ACCA)</li>
-        </ul>
-        <strong>Presenter:</strong>
-        <ul>
-            <li>Lilly Thomas(Development Seed)</li>
-            <li>Ryan Avery (Development Seed)</li>
+          <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12:00 - 13:00</td>
+      <td>05</td>
       <td>
         <ul>
-            <li>Introduction to Google Colab, Tensorflow 2.0 and Keras Library</li>
+          <li>Operaciones RPAS</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Osmar Yupanqui (ACCA)</li>
-        </ul>
-        <strong>Presenter:</strong>
-        <ul>
-            <li>Lilly Thomas(Development Seed)</li>
+          <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13:00 - 14:15</td>
-      <td>
-        <em>Lunch</em>
-      </td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>14:15 - 15:00</td>
+      <td>06</td>
       <td>
         <ul>
-            <li>Overview of the building blocks (tensors) of TensorFlow (Tensors), main methods, functions and datasets</li>
+          <li>Parámetros de vuelo</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Osmar Yupanqui (ACCA)</li>
-        </ul>
-        <strong>Presenter:</strong>
-        <ul>
-            <li>Lilly Thomas(Development Seed)</li>
+            <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15:00 - 15:40</td>
-      <td>
-        <em>Break</em>
-      </td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>15:40 - 17:00</td>
+      <td>07</td>
       <td>
         <ul>
-          <li>Integrating TensorFlow with Google Earth Engine and Google Cloud Platform</li>
+            <li>Normativa vigente</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Osmar Yupanqui (ACCA)</li>
-        </ul>
-        <strong>Presenter:</strong>
-        <ul>
-            <li>Lilly Thomas(Development Seed)</li>
-            <li>Ryan Avery (Development Seed)</li>
+            <li>Teórico</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17:00 - 17:20</td>
+      <td>08</td>
       <td>
         <ul>
-            <li>Day 1 wrap up</li>
+            <li>Tipos de drones y sus prestaciones</li>
         </ul>
       </td>
       <td>
-        <strong>Moderator:</strong>
         <ul>
-            <li>Vanesa Martin (NASA)</li>
+            <li>Teórico</li>
         </ul>
       </td>
-    </tr>
   </tbody>
 </table>
 
-## Content
+## Contenido
 
-Introduction to Machine Learning, Deep Learning and Artificial Intelligence:
+### Introducción al uso de drones
 
-<ul>
-    <li><a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson1a_Intro_ML_NN_DL.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson1a_Intro_ML_NN_DL.html</a></li>
-</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhCFJoCmknVWMnzQBMdqU9kDZFSY1QgCw1O5gbx_Qe6nQ6z3oInVWHkz3c8GT45A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Introduction to Google Colab, Tensorflow 2.0 and Keras Library:
+### Meteorología
 
-<ul>
-    <li>Colab: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html</a></li>
-    <li>Tensorflow 2.0 and Keras part 1: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html</a></li>
-    <li>Tensorflow 2.0 and Keras part 2: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2c_Intro_TF2_Keras_TFDS_RadiantEarth.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2c_Intro_TF2_Keras_TFDS_RadiantEarth.html</a></li>
-</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCc0RUpCL4PYpvGLEplmmVNv_oCs5ez0fq1l5J_X86YZxJQifO-SS4kdzP_LJYJQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Overview of the building blocks (tensors) of TensorFlow (Tensors), main methods, functions and datasets:
+### Factores humanos
 
-<ul>
-    <li><a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson3_Intro_tensors_functions_datasets.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson3_Intro_tensors_functions_datasets.html</a></li>
-</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX56xOqWXluaL-QGYgumJ2Uv_svklmNMg5pSp9pe49WkmLAxN7gu78WKSuTFAvsA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Integrating TensorFlow with Google Earth Engine and Google Cloud Platform:
+### Parámetros de vuelo
 
-<ul>
-    <li>GEE: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html</a></li>
-    <li>GCP: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html</a></li>
-</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMpjle7dcpZyEwojfgP4TK9ylyWS30y9Iv8VaSjyDzLcf21dGarjYPYp2mua7IiQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Normativas para drones
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1e8Xoh4HMpFpMXo5rlOg-jPwQhnvewVaaEGQFI7MI9CLoTrP5KDsEaR4Kv7VzcA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
