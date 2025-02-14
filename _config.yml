@@ -1,7 +1,7 @@
 title: Taller de Fortalecimiento de Capacidades de CITEproductivo en el uso de RPAS y en Temas Geoespaciales
 description: Entrenamiento presencial realizado por ACCA, Wyss Academy, Mapbiomas e IBC
 baseurl: "/CITEproductivo2025" # the subpath of your site, e.g. /blog
-url: " https://conservacion-amazonica-acca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://conservacion-amazonica-acca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/transparent-logos.png"
 
 remote_theme: just-the-docs/just-the-docs
