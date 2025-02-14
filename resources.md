@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Resources
-nav_order: 8
+title: Recursos
+nav_order: 15
 ---
 
-# Resources
+# Recursos
 
-Below is a 2021 video recording of a previous version of this lesson. It was given by Lilly Thomas, ML Engineer at Development Seed.
+Se comparte una serie de recursos en línea.
 
-<iframe width="480" height="320" src="https://www.youtube.com/embed/-C3niPVd-zU"></iframe>
+<ul>
+    <li><a href="https://servir-amazonia.github.io/Peru-tensorflow-training/" target="_blank">Entrenamiento sobre las aplicaciones de TensorFlow en la Amazonía Peruana</a></li>
+</ul>
