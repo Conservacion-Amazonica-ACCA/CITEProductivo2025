@@ -127,6 +127,7 @@ nav_order: 3
             <li>Teórico</li>
         </ul>
       </td>
+    </tr>
   </tbody>
 </table>
 
