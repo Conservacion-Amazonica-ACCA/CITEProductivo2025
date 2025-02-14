@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "3. Conceptos preliminares en SIG y teledetección"
+title: "3. Conceptos preliminares en SIG y Teledetección"
 permalink: /03-intro-teledeteccion
 has_children: false
 nav_order: 5
