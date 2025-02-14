@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introducción al uso de drones"
+title: "1. Introducción al uso de drones"
 permalink: /01-Drones-intro
 has_children: false
 nav_order: 3
