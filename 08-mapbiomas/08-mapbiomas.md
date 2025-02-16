@@ -56,7 +56,7 @@ nav_order: 10
       </td>
       <td>
         <ul>
-            <li>Teórico/Práctica</li>
+            <li>Teórico/Práctico</li>
         </ul>
       </td>
     </tr>
