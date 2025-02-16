@@ -174,3 +174,11 @@ nav_order: 6
     <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.8%20Manipulacion%20de%20colecciones%20de%20entidades" target="_blank">Práctica 8: Manipulación de colección de entidades</a></li>
     <li><a href="https://code.earthengine.google.com/?scriptPath=users%2Fgis_acca%2FCITEproductivo_Taller2025%3ADia1%2F1.9%20Subida%20y%20descarga%20de%20datos" target="_blank">Práctica 9: Subida y descarga de datos</a></li>
 </ul>
+
+### Recursos adicionales
+
+<ul>
+    <li><a href="https://earthengine.google.com/" target="_blank">Google Earth Engine</a></li>
+    <li><a href="https://developers.google.com/earth-engine/datasets/" target="_blank">Catálogo de Datos</a></li>
+    <li><a href="https://www.w3schools.com/js/" target="_blank">Tutorial Básico de JavaScript</a></li>
+</ul>
